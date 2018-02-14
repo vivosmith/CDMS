@@ -1,0 +1,8 @@
+--CDMS READ ME------------------------------------------------------------------------------------------------------------------------------------------
+1. Click install.py to install everything that is needed for CDMS (except for Python 3, which needs to be install seperately).
+2. To view all cards (assuming you create at last one card record), simply click search for all cards.
+3. To add a card to the db, the minimum details you must enter are player name, year, and manufacturer, then click the Add a Card to the Catabase button.
+4. to search, do the same as the above instructions, but press the Search the Database button isntead.
+5. To delete a single card from your db, simply type the players name, manufactuer, and year, and press delete.
+6. To go to the next records page, press the Next button. If you do not see it,you have reached the end of your records.
+-Requires Python 3
